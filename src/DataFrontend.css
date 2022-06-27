@@ -1,0 +1,39 @@
+*{
+    background-color: rgb(190, 195, 199);
+
+margin:20px auto;
+}
+
+.mainContainer{
+    height: 60vh;
+    width: 80%;
+    background-color: rgb(212, 242, 248);
+    
+}
+
+table{
+    border: 1px solid burlywood;
+    
+
+}
+label{
+    width: 20%;
+font-size: 22px;
+font-weight: 500;
+padding: 2px;
+}
+input{
+    padding: 2px 10px;
+}
+.rows td{
+padding: 20px 10px;
+color: rgb(247, 242, 242);
+margin-left: 30px;
+
+background-color: black;
+}
+.rows td:hover{
+    background-color: antiquewhite;
+    color: rgb(2, 6, 10);
+    font-weight: bold;
+}
